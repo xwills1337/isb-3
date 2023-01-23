@@ -24,7 +24,7 @@
 4. Когда необходимый код написан, соответствует [PEP](https://peps.python.org/pep-0008/) и **работает**, необходимо сделать [пул-риквест в исходный репозиторий](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork);  
 4.1. Название пул риквеста *должно* формироваться следующим образом: `<Номер группы> <ФИО> Лаб.<Номер лабы> Вар.<Номер варианта>`;  
 4.2. В описание пул риквеста было бы неплохо добавить описание того, что  от вас требовалось сделать в данной лабораторной согласно вашему варианту. Хотя бы на русском языке;  
-4.3. Преподаватель (скорее всего [@alxmcs](https://github.com/alxmcs)) поставит себя в [ревьюеры](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review), назначит вас [исполнителем](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users) и произведет ревью; 
+4.3. Преподаватель поставит себя в [ревьюеры](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review), назначит вас [исполнителем](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users) и произведет ревью; 
 
 5. После успешного создания пул-риквеста производится ревью кода лабораторной;  
 5.1. Если к работоспособности и внешнему виду кода нет претензий, то преподаватель аппрувит и закрывает пул риквест;  
