@@ -7,8 +7,9 @@ settings = {
     'symmetric_key': 'files/symmetric_key.txt',
     'nonce': 'files/nonce.txt',
     'public_key': 'files/public_key.pem',
-    'secret_key': 'files/secret_key.pem'
+    'private_key': 'files/private_key.pem'
 }
+
 
 if __name__ == "__main__":
     with open('settings.json', 'w') as fp:
